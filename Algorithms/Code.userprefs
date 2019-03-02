@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{7682D796-F14B-4213-9325-59C3746300F0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="interviewcode/StringManipulation.cs">
+    <Files>
+      <File FileName="interviewcode/ArrayCode.cs" Line="199" Column="5" />
+      <File FileName="interviewcode/Graphs/GraphAlgos.cs" Line="172" Column="16" />
+      <File FileName="interviewcode/Backtracking.cs" Line="74" Column="1" />
+      <File FileName="interviewcode/BinarySearch.cs" Line="313" Column="28" />
+      <File FileName="interviewcode/SortingAlgos.cs" Line="246" Column="24" />
+      <File FileName="interviewcode/Program.cs" Line="30" Column="6" />
+      <File FileName="interviewcode/DynamicProgramming.cs" Line="132" Column="19" />
+      <File FileName="interviewcode/LinkedListAlgos.cs" Line="663" Column="24" />
+      <File FileName="interviewcode/TreeAlgos.cs" Line="743" Column="6" />
+      <File FileName="interviewcode/Graphs/DijkstrasShortestPath.cs" Line="109" Column="31" />
+      <File FileName="interviewcode/Graphs/FloydWarshall.cs" Line="25" Column="6" />
+      <File FileName="interviewcode/Graphs/KruskalMST.cs" Line="60" Column="3" />
+      <File FileName="interviewcode/Graphs/PrimMST.cs" Line="23" Column="13" />
+      <File FileName="interviewcode/StringManipulation.cs" Line="954" Column="39" />
+      <File FileName="interviewcode/StackAndQueues.cs" Line="25" Column="4" />
+      <File FileName="interviewcode/NumberAlgos.cs" Line="257" Column="3" />
+      <File FileName="interviewcode/App.config" Line="1" Column="1" />
+      <File FileName="interviewcode/0104Code.cs" Line="13" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/Rob/Dropbox/InterviewCode/InterviewCode/Program.cs" line="599" column="1" />
+      <Breakpoint enabled="false" file="/Users/Rob/Dropbox/InterviewCode/InterviewCode/StringManipulation.cs" line="271" column="1" />
+      <Breakpoint enabled="false" file="/Users/Rob/Dropbox/InterviewCode/InterviewCode/0104Code.cs" line="433" column="1" />
+      <Breakpoint enabled="false" file="/Users/robert.henderson/Dropbox/_Development Resources/Interview Prep 2017/interviewcode/interviewcode/StringManipulation.cs" relfile="interviewcode/StringManipulation.cs" line="896" column="1" />
+      <Breakpoint enabled="false" file="/Users/robert.henderson/Dropbox/_Development Resources/Interview Prep 2017/interviewcode/interviewcode/StringManipulation.cs" relfile="interviewcode/StringManipulation.cs" line="789" column="1" />
+      <Breakpoint file="/Users/robert.henderson/Dropbox/_Development Resources/Interview Prep 2017/interviewcode/interviewcode/Program.cs" relfile="interviewcode/Program.cs" line="367" column="1" />
+      <Breakpoint file="/Users/robert.henderson/Dropbox/_Development Resources/Interview Prep 2017/interviewcode/interviewcode/Program.cs" relfile="interviewcode/Program.cs" line="449" column="1" />
+      <Breakpoint file="/Users/robert.henderson/Dropbox/_Development Resources/Interview Prep 2017/interviewcode/interviewcode/StackAndQueues.cs" relfile="interviewcode/StackAndQueues.cs" line="92" column="1" />
+      <Breakpoint file="/Users/robert.henderson/Dropbox/_Development Resources/Interview Prep 2017/interviewcode/interviewcode/Graphs/PrimMST.cs" relfile="interviewcode/Graphs/PrimMST.cs" line="48" column="1" />
+      <Breakpoint file="/Users/robert.henderson/Dropbox/_Development Resources/Interview Prep 2017/interviewcode/interviewcode/NumberAlgos.cs" relfile="interviewcode/NumberAlgos.cs" line="416" column="1" />
+      <Breakpoint file="/Users/robert.henderson/Dropbox/_Development Resources/Interview Prep 2017/interviewcode/interviewcode/Backtracking.cs" relfile="interviewcode/Backtracking.cs" line="62" column="1" />
+      <Breakpoint file="/Users/robert.henderson/Dropbox/_Development Resources/Interview Prep 2017/interviewcode/interviewcode/Program.cs" relfile="interviewcode/Program.cs" line="505" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="interviewcode/StackAndQueues.cs" line="22" offsetX="313" offsetY="281" expression="tower" liveUpdate="False" />
+    <Watch file="interviewcode/ArrayCode.cs" line="413" offsetX="444" offsetY="6573" expression="A[i]" liveUpdate="False" />
+    <Watch file="interviewcode/ArrayCode.cs" line="413" offsetX="521" offsetY="6598" expression="i" liveUpdate="False" />
+    <Watch file="interviewcode/ArrayCode.cs" line="413" offsetX="406" offsetY="6629" expression="A[i]" liveUpdate="False" />
+    <Watch file="interviewcode/Program.cs" line="24" offsetX="445" offsetY="368" expression="numbers[i]" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.Code PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

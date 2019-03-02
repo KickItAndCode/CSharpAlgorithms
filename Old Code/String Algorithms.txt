@@ -1,0 +1,35 @@
+String Algorithms
+
+1. StrStr
+2. ISPalindrome
+3. IsAnagram
+4. StringReverse
+5. FizzBuzz
+6. AllUnique
+7. ReverseString_Rec
+8. removeDuplicates
+9. Search
+10. RemoveChar
+11. PrintCombinations
+
+
+Sorting Algorithms
+
+Binary Search Tree
+
+Linked List 
+	Print a linked list in reverse order
+
+	Implement Stack and Queue 
+
+	Sort a linked list of 0s 1s 2s
+
+	Remove duplicates from a linked list
+
+	Reverse using recursion
+
+	Reverse every k nodes
+
+
+
+http://www.crazyforcode.com/linked-list/

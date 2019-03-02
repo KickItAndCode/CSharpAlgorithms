@@ -1,0 +1,6 @@
+c:\users\rhend.guidance\documents\visual studio 2015\Projects\InterviewCode\InterviewCode\bin\Debug\InterviewCode.exe.config
+c:\users\rhend.guidance\documents\visual studio 2015\Projects\InterviewCode\InterviewCode\obj\Debug\InterviewCode.csprojResolveAssemblyReference.cache
+c:\users\rhend.guidance\documents\visual studio 2015\Projects\InterviewCode\InterviewCode\bin\Debug\InterviewCode.exe
+c:\users\rhend.guidance\documents\visual studio 2015\Projects\InterviewCode\InterviewCode\bin\Debug\InterviewCode.pdb
+c:\users\rhend.guidance\documents\visual studio 2015\Projects\InterviewCode\InterviewCode\obj\Debug\InterviewCode.exe
+c:\users\rhend.guidance\documents\visual studio 2015\Projects\InterviewCode\InterviewCode\obj\Debug\InterviewCode.pdb
